@@ -1,0 +1,2 @@
+
+To open a file and print its contents to the screen in Python, you can follow this simple procedure. After opening the file with open("file.txt", "r") as shown, you read from the file and then print what you've read. It's also important to properly close the file afterward to free up system resources. Using a with statement is a good practice because it automatically takes care of closing the file for you once the block is exited, even if exceptions are raised within the block. Here’s how you can do it:
