@@ -1,0 +1,3 @@
+Hello, World!
+This is a sample text file.
+It contains a few lines of text for demonstration purposes.
